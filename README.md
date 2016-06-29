@@ -17,6 +17,10 @@ Set the SACONFIGFILE environment variable to point to the config file (see examp
 Will return 500 when the sites have not yet been checked, 503 if any of them timeout, otherwise
 it will return the highest status code.
 
+# Docker
+
+See [DockerHub page](https://hub.docker.com/r/elab/statusaggregator/)
+
 # Use
 ```
 go get
