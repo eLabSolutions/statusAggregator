@@ -1,0 +1,10 @@
+{
+  "Port": 18888,
+  "CheckFrequency": 10,
+  "Timeout": 3,
+  "Sites": [
+    "https://www.google.com",
+    "https://www.yahoo.com"
+  ],
+  "JsonLogs": false
+}
